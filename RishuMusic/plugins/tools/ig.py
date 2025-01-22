@@ -3,7 +3,7 @@ import requests
 from pyrogram import filters
 
 from RishuMusic import app
-from config import LOG_GROUP_ID
+
 
 
 @app.on_message(filters.command(["ig", "instagram", "reel"]))

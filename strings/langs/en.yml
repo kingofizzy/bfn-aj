@@ -168,13 +168,13 @@ ping_2 : "❖ {1}\n\n⌾ ᴘɪηɢ..ᴩσηɢ : {0}ϻs..\n\n➻ sʏsᴛєϻ sᴛ
 queue_1 : "❖ ғєᴛᴄʜɪηɢ ǫυєυє...\n\nᴘʟєᴧsє ᴡᴧɪᴛ..."
 queue_2 : "❖ ǫυєυє єϻᴘᴛʏ."
 queue_3 : "<u>❖ ᴄʟɪᴄᴋ ʜєʀє ᴛσ ᴄʜєᴄᴋ ᴛʜє ʟɪsᴛ σғ ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs :</u> <a href={0}>ʜєʀє</a>"
-queue_4 : "<blockquote><b>❖ ʀɪsʜυ-ϻυsɪᴄ ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>𝐓𝔦𝖙𝖙𝖑𝛆</b> {1} \n<b>𝐃𝔲𝔯𝛂𝖙𝛊𖦹𝛈</b> {2} ϻɪηυᴛєs \n<b>❍ ǫυєυє ➥</b> {0} \n\n<b>𝐑𝛆𝖖 𝐁𝛗 {3}</blockquote> </b>\n\n<b><blockquote> ⧼𝀤ٜ𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 𞥇⥇⃭̇⚡ ⃔ ͓ᯓ꯭🤴🏻𝐈 ᴢ ᴢ ʏ ʏ ɪ Ꝛ » </b></blockquote>"
+queue_4 : "<blockquote><b><blockquote> [𓆰⚡͚̍𝆹𝅥𝐁𝔢𝖆𝛅𝐓 𝐅🐺𝐗 𝐍𝔢𝖙𝔴𝖔𝔯𝐊🕸️](https://t.me/beast_fox_network)</blockquote></b>\n\n<b><blockquote>𝐓𝔦𝖙𝖙𝖑𝛆</b> {1} \n<b>𝐃𝔲𝔯𝛂𝖙𝛊𖦹𝛈</b> {2} ϻɪηυᴛєs \n<b>❍ ǫυєυє ➥</b> {0} \n\n<b>𝐑𝛆𝖖 𝐁𝛗 {3}</blockquote> </b>\n\n<b><blockquote> ⧼𝀤ٜ𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 𞥇⥇⃭̇⚡ ⃔ ͓ᯓ꯭🤴🏻𝐈 ᴢ ᴢ ʏ ʏ ɪ Ꝛ » </b></blockquote>"
 queue_5 : "❖ ᴛʜєʀє's σηʟʏ σηє ǫυєυєᴅ ᴛʀᴧᴄᴋ ɪη ᴘʟᴧʏʟɪsᴛ.\n\n❖ ᴧᴅᴅ ϻσʀє ᴛʀᴧᴄᴋs ᴛσ ᴄʜєᴄᴋ ʟɪsᴛ."
 queue_6 : "<b>❖ ᴅυʀᴧᴛɪση :</b> υηᴋησᴡη ᴅυʀᴧᴛɪση sᴛʀєᴧϻ\n\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}\n\n❖ <b>sᴛʀєᴧϻ ᴛʏᴘє :</b> {2}\n❖ <b>ʀєǫυєsᴛєᴅ ʙʏ :</b> {3}\n❖ {4}"
 
-stream_1 : "<b><blockquote> [𓆰⚡͚̍𝆹𝅥𝐁𝔢𝖆𝛅𝐓 𝐅🐺𝐗 𝐍𝔢𝖙𝔴𝖔𝔯𝐊🕸️](https://t.me/beast_fox_network)</b></blockquote>\n\n<b><blockquote>𝐓𝔦𝖙𝖙𝖑𝛆</b> <a href={0}>{1}</a> </b>\n\n<b>𝐃𝔲𝔯𝛂𝖙𝛊𖦹𝛈</b> {2} ϻɪηυᴛєs </b>\n\n<b>𝐑𝛆𝖖 𝐁𝛗</b> {3}</b></blockquote>\n\n<b><blockquote>⧼𝀤ٜ𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 𞥇⥇⃭̇⚡ ⃔ ͓ᯓ꯭🤴🏻𝐈 ᴢ ᴢ ʏ ʏ ɪ Ꝛ » </b></blockquote>"
+stream_1 : "<blockquote> [𓆰⚡͚̍𝆹𝅥𝐁𝔢𝖆𝛅𝐓 𝐅🐺𝐗 𝐍𝔢𝖙𝔴𝖔𝔯𝐊🕸️](https://t.me/beast_fox_network)</blockquote>\n\n<b><blockquote>𝐓𝔦𝖙𝖙𝖑𝛆</b> <a href={0}>{1}</a> </b>\n\n<b>𝐃𝔲𝔯𝛂𝖙𝛊𖦹𝛈</b> {2} ϻɪηυᴛєs </b>\n\n<b>𝐑𝛆𝖖 𝐁𝛗</b> {3}</b></blockquote>\n\n<b><blockquote>⧼𝀤ٜ𝐃𝝴𝛄𝝴𝖑𖦹𝞀𝖗 𞥇⥇⃭̇⚡ ⃔ ͓ᯓ꯭🤴🏻𝐈 ᴢ ᴢ ʏ ʏ ɪ Ꝛ » </b></blockquote>"
 stream_2 : "<b>[𓆰⚡͚̍𝆹𝅥𝐁𝔢𝖆𝛅𝐓 𝐅🐺𝐗 𝐍𝔢𝖙𝔴𝖔𝔯𝐊🕸️](https://t.me/beast_fox_network</b>\n\n<b>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}"
 
 

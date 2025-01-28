@@ -12,7 +12,7 @@ from RishuMusic.utils.database import (
 )
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message, User, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
-from config import LOG_GROUP_ID as LOG_GROUP_ID
+
 
 
 async def new_message(chat_id: int, message: str, reply_markup=None):
